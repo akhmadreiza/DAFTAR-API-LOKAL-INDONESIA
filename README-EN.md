@@ -2,9 +2,9 @@
 
 # List of Local API Indonesia
 
-This repository have list of local API Indonesia about Indonesia data.
+This repository contains list of Indonesian's local API.
 
-This file is translation from Original (Bahasa Indonesia).
+This file is translation from Original ([Bahasa Indonesia](README.md)).
 
 ## Another Translation
 
